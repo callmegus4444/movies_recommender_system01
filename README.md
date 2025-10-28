@@ -124,7 +124,6 @@ The dark gradient CSS gives a cinematic experience to the UI.
 
 ## 📈 Minimal Flowchart
 
-```mermaid
 flowchart TD
     A[Raw TMDB CSVs] --> B[Data Cleaning & Merging]
     B --> C[Tag Creation: overview + genres + keywords + cast + director]
